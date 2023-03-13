@@ -5,5 +5,5 @@ if test -f ".env"; then
 else
     cp .env.example .env
 fi
-docker-compose build
+docker compose build
 npm install

@@ -1,6 +1,7 @@
 #!/bin/bash
 set -exo
 
+chmod +x *.sh
 ./build.sh
 ./download.sh
 
@@ -8,8 +9,8 @@ if [ -f .env ]; then
   export $(cat .env | sed 's/#.*//g' | xargs)
 fi
 
-sudo docker-compose down --remove-orphans
-sudo docker-compose up --build -d --remove-orphans
+sudo docker compose down --remove-orphans
+sudo docker compose up --build -d --remove-orphans
 ./wait-for-it.sh ${MONGO_URL}:${MONGO_PORT} --strict --timeout=10 -- echo "MongoDB is up"
 ./wait-for-it.sh ${NEO4J_URL}:${NEO4J_PORT} --strict --timeout=10 -- echo "Neo4J is up"
 sleep 20
