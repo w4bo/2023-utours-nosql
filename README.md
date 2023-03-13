@@ -5,6 +5,8 @@
 Matteo Francia, University of Bologna.
 Thanks to Enrico Gallinucci and Oscar Romero for sharing their teaching material.
 
+Link to this repository: https://github.com/w4bo/2023-utours-nosql
+
 ## Teaching material
 
 | Where |          When         | Duration (hours) | What                                                                    |
