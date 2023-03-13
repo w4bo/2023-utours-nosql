@@ -23,4 +23,5 @@ Thanks to Enrico Gallinucci and Oscar Romero for sharing their teaching material
 1. Clone the repository: `git clone https://github.com/w4bo/2023-asw-nosql.git`
 1. Double click on `code/start.bat` (on Windows)
 1. Connect Studio3T to MongoDB (`${MONGO_URL}:${MONGO_PORT}`, e.g. `127.0.0.1:27018`)
+   ![immagine](https://user-images.githubusercontent.com/18005592/224693910-36e7fbd3-aac7-4888-8872-a3ef2f12bda1.png)
 1. Access via browser the Neo4J's GUI (`${NEO4J_URL}:${NEO4J_PORT_GUI}`, e.g. `127.0.0.1:7474`)
