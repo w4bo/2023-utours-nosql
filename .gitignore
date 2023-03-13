@@ -4,6 +4,7 @@ foodmart.sql
 *.iml
 *.bson
 *.json
+!foo.json
 !renovate.json
 !mongodb/data/foo.json
 !package*.json
