@@ -1,6 +1,6 @@
 # NoSQL in Action!
 
-[![Build](https://github.com/w4bo/teaching-nosql-tours/actions/workflows/build.yml/badge.svg)](https://github.com/w4bo/teaching-nosql-tours/actions/workflows/build.yml)
+[![Build](https://github.com/w4bo/2023-nosql-utours/actions/workflows/build.yml/badge.svg)](https://github.com/w4bo/2023-nosql-utours/actions/workflows/build.yml)
 
 Matteo Francia, University of Bologna.
 Thanks to Enrico Gallinucci and Oscar Romero for sharing their teaching material.
@@ -24,8 +24,3 @@ Thanks to Enrico Gallinucci and Oscar Romero for sharing their teaching material
 1. Double click on `code/start.bat` (on Windows)
 1. Connect Robo3T to MongoDB (`${MONGO_URL}:${MONGO_PORT}`, e.g. `127.0.0.1:27018`)
 1. Access via browser the Neo4J's GUI (`${NEO4J_URL}:${NEO4J_PORT_GUI}`, e.g. `127.0.0.1:7474`)
-
-## Evaluation
-
-Link to the final test (hosted on GoogleForm): https://forms.gle/MFNnmWLwtchi3RFV9 
-# 2023-nosql-utours
