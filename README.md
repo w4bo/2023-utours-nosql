@@ -9,12 +9,14 @@ Link to this repository: https://github.com/w4bo/2023-utours-nosql
 
 ## Teaching material
 
-| Where |          When         | Duration (hours) | What                                                                    |
-|:-----:|:---------------------:|:----------------:|-------------------------------------------------------------------------|
-|  ???  | Mon 13/05/2023, 13:00 |         2        | Introduction to NoSQL databases with a focus on Document-based database |
-|  ???  | Tue 14/05/2023, 15:00 |         3        | Hands on MongoDB                                                        |
-|  ???  | Thu 16/05/2023, 13:00 |         2        | Introduction to property and knowledge graph databases                  |
-|  ???  | Fri 17/05/2023, 13:00 |         3        | Hands on Neo4J. Final Test (~1 hour)                                    |
+|          When           | Duration (hours) | What                                                                    |
+|:-----------------------:|:----------------:|-------------------------------------------------------------------------|
+| Mon 13/03/2023, 13:00   |         2        | Introduction to NoSQL databases with a focus on Document-based database |
+| Tue 14/03/2023, 15:00   |         3        | Hands on MongoDB                                                        |
+| Thu 16/03/2023, 08:15   |         2        | Introduction to property and knowledge graph databases                  |
+| Thu 16/03/2023, 11:00   |         3        | Hands on Neo4J.                                                         |
+| ~Fri 17/03/2023, 13:00~ |                  |                                                                         |
+| Fri 24/03/2023, 13:00   |         1        | Final Test (~1 hour)                                                    |
 
 - `code/` contains the software necessary to start the databases on docker
 - `slides/` contains the teaching material
