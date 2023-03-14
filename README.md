@@ -38,4 +38,5 @@ Link to this repository: https://github.com/w4bo/2023-utours-nosql
 
 ## AWS Learners lab
 
-To request the access: https://forms.gle/F7R8GZHgoiids8546
+- To request the access as a student: https://forms.gle/F7R8GZHgoiids8546
+- Then, log in to: https://awsacademy.instructure.com
