@@ -11,7 +11,7 @@ Cypher Manual https://neo4j.com/docs/cypher-manual/current/
     CREATE (matt:Person {name:'Matt Damon', born: 1970})
     CREATE (leo)-[:ACTED_IN {roles: ['Billy']}]->(departed)
     CREATE (matt)-[:ACTED_IN {roles: ['Colin Sullivan']}]->(departed);
-    MATCH (jack:Person {name: 'Jack Nicholson'}).
+    MATCH (jack:Person {name: 'Jack Nicholson'})
     MATCH (departed:Movie {title:'The Departed'})
     CREATE (jack)-[:ACTED_IN {roles: ['Frank Costello']}]->(departed)
     ```
