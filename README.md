@@ -7,6 +7,13 @@ Thanks to Enrico Gallinucci and Oscar Romero for sharing their teaching material
 
 Link to this repository: https://github.com/w4bo/2023-utours-nosql
 
+## Description
+
+In this 10-hour course, we will delve into NoSQL databases, their pros/cons with respect to relational ones, and their intersection with big data.
+We will discuss challenges related to design, scaling to clusters of machines, and data availability.
+We will mainly refer to document- and graph-based data models, introducing their fundamentals and their application to some real-life scenarios (such as the Internet of Things and social networks).
+For both data models, we will have 2-hour theory and 3-hour laboratory classes.
+
 ## Teaching material
 
 |          When           | Duration (hours) | What                                                                    |
